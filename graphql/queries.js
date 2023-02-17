@@ -20,12 +20,7 @@ query{
           name
           url
         }
-        orcamento{
-          id
-          label
-          url
-        }
-        demostracao{
+        faleConnosco{
           id
           label
           url
@@ -39,16 +34,12 @@ query{
                 name
                 url
               }
-              orcamento{
+              faleConnosco{
                 id
                 label
                 url
               }
-              demostracao{
-                id
-                label
-                url
-              }
+
             }
     			}
         }

@@ -180,27 +180,27 @@
     font-size: 15px;
   }
   .hero-banner .main-banner-content .btn-primary,
-.hero-banner .main-banner-content .btn-secondary {
+  .hero-banner .main-banner-content .btn-secondary {
     font-size: 14px;
     padding: 10px 20px;
   }
   .slider-area ul li .tp-caption.NotGeneric-SubTitle-paragraph,
-.slider-area ul li .NotGeneric-SubTitle-paragraph {
+  .slider-area ul li .NotGeneric-SubTitle-paragraph {
     font-size: 14px !important;
   }
   .slider-area ul li .tp-caption.NotGeneric-btn .btn,
-.slider-area ul li .NotGeneric-btn .btn {
+  .slider-area ul li .NotGeneric-btn .btn {
     padding: 15px 20px !important;
     font-size: 13px !important;
   }
   .slider-area ul li .tp-caption.NotGeneric-SubTitle,
-.slider-area ul li .NotGeneric-SubTitle {
+  .slider-area ul li .NotGeneric-SubTitle {
     display: none;
   }
   .slider-area .tp-caption.tp-hidden-caption,
-.slider-area .tp-forcenotvisible,
-.slider-area .tp-hide-revslider,
-.slider-area .tp-parallax-wrap.tp-hidden-caption {
+  .slider-area .tp-forcenotvisible,
+  .slider-area .tp-hide-revslider,
+  .slider-area .tp-parallax-wrap.tp-hidden-caption {
     visibility: visible !important;
     display: block !important;
     opacity: 1 !important;
@@ -617,9 +617,9 @@
     font-size: 18px;
   }
   .shape5,
-.shape1,
-.shape3,
-.shape8 {
+  .shape1,
+  .shape3,
+  .shape8 {
     display: none;
   }
   .case-studies-desc {
@@ -1076,8 +1076,8 @@
     font-size: 30px;
   }
   .portfolio-desc h1,
-.portfolio-desc h3,
-.portfolio-desc h3 {
+  .portfolio-desc h3,
+  .portfolio-desc h3 {
     font-size: 22px;
     margin-bottom: 10px;
   }
@@ -1774,7 +1774,7 @@
     line-height: 1.6;
   }
   .hero-banner .main-banner-content .btn-secondary,
-.hero-banner .main-banner-content .btn-primary {
+  .hero-banner .main-banner-content .btn-primary {
     font-size: 14px;
     padding: 12px 22px;
   }
@@ -2149,7 +2149,7 @@
     padding: 25px 30px;
   }
   .hero-banner .main-banner-content .btn-secondary,
-.hero-banner .main-banner-content .btn-primary {
+  .hero-banner .main-banner-content .btn-primary {
     font-size: 14px;
     padding: 12px 25px;
   }

@@ -55,16 +55,12 @@ function Navbar() {
                                         )
                                     })}
 
-                                    <Link href={attr.demostracao.url} >
-                                        <a className="btn btn_demostracao"> <i className="icofont-laptop"></i>
-                                            {attr.demostracao.label}
+                                    <Link href={attr.faleConnosco.url} >
+                                        <a className="btn btn_demostracao"> <i class="icofont-headphone-alt"></i>
+                                            {attr.faleConnosco.label}
                                         </a>
                                     </Link>
-                                    <Link href={attr.orcamento.url} >
-                                        <a className="btn btn_orcamento"> <i className="icofont-dollar experimentarIcon"></i>
-                                            {attr.orcamento.label}
-                                        </a>
-                                    </Link>
+
                                 </div>
                                 <button
                                     className="nav-btn nav-close-btn"
